@@ -1,4 +1,8 @@
 # neurotic_networkers
 ML class group project by Ewha students
 
-Jordan - test push/pull
+Team Members:  
+Qin Tong Bettina Tee  
+Ryan  
+Eloïne  
+Jordan
