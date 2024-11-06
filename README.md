@@ -1,2 +1,2 @@
 # neurotic_networkers
-ML class group project
+ML class group project by Ewha students
