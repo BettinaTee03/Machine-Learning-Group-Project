@@ -5,8 +5,8 @@ Team Members:
 Qin Tong Bettina Tee  
 Ryan  
 Eloïne Vatteville-Réveillon  
-Jordan
-Kei 
+Jordan  
+Kei  
 Roselyn
 
 
