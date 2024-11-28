@@ -7,7 +7,7 @@ Ryan
 Eloïne Vatteville-Réveillon  
 Jordan
 Kei 
-
+Roselyn
 
 
 ### Running the codes
@@ -16,17 +16,21 @@ You can create a folder called 'datasets' and put the mon_standard.pkl and unmon
 
 ## 2 Create an environment
 
-To activate the .yml file follow below
-In terminal or PowerShell copy the following commands
+When running this project, first make sure you have `conda` installed on your machine. You can download it [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html).
 
+To activate the .yml file follow below, in Terminal or PowerShell copy the following commands:
+
+```
 conda env create -f mlpro.yml
 
 conda activate mlpro
+```
 
-The first line will create the venv in order to have a dedicated venv that is the same across all our computers
-The second line will activate the venv in order to run the program with all the required dependanceis that we are using ex pandas, numpy ect.
+The first line will create the venv in order to have a dedicated venv that is the same across all our computers.
 
-Be sure to activate the second command any time that you want to run the program! (its basically a python kernel)
+The second line will activate the venv in order to run the program with all the required dependancies that we are using, e.g. `pandas`, `numpy` ect.
+
+Be sure to activate the second command any time that you want to run the program! (It's essentially a Python kernel)
 
 ## 3 Create the features from the data
 Run the feature_extraction.ipynb, this will create a 'extracted_features.pkl' file, containing all the features we created from the raw data.
