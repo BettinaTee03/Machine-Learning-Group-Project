@@ -1,16 +1,18 @@
 # neurotic_networkers
-ML class group project by Ewha students
+EWHA Machine Learning 38428 class group project by team Neurotic Networkers
+ 
+Team Members | Student ID  
+-------------| -------------
+Qin Tong Bettina Tee  | IES24303  
+Yan Renyu | IES24364  
+Eloïne Vatteville-Réveillon | IES24309  
+Jordan O’Neill | IES24181  
+Kei Saito | IES24601   
+Roselyn Mui Huynh | IES24362 
+Jennifer Zhang | IES24624
 
-Team Members:  
-Qin Tong Bettina Tee  
-Ryan  
-Eloïne Vatteville-Réveillon  
-Jordan  
-Kei  
-Roselyn
 
-
-### Running the codes
+# Running the codes
 ## 1 Download the data
 You can create a folder called 'datasets' and put the mon_standard.pkl and unmon_standard.pkl data files in it, or edit the file addresses in the code to your own folders with the data.
 
@@ -38,3 +40,4 @@ Run the feature_extraction.ipynb, this will create a 'extracted_features.pkl' fi
 ## 4 Try the different models!
 You can see our workflow and results for each experimental scenario by running the cells in the .. .. .. files.
 Be careful of some cells that might take a long time to run depending on your machine capacities.
+Running these files will generate results pkl files that can be used to show graphs using the comparisons.ypnb file. Using this code, you can also see the ROC graphs of the final models.
