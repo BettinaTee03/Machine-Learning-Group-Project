@@ -1,16 +1,18 @@
 # neurotic_networkers
-ML class group project by Ewha students
+EWHA Machine Learning 38428 class group project by team Neurotic Networkers
+ 
+Team Members | Student ID  
+-------------| -------------
+Qin Tong Bettina Tee  | IES24303  
+Yan Renyu | IES24364  
+Eloïne Vatteville-Réveillon | IES24309  
+Jordan O’Neill | IES24181  
+Kei Saito | IES24601   
+Roselyn Mui Huynh | IES24362 
+Jennifer Zhang | IES24624
 
-Team Members:  
-Qin Tong Bettina Tee  
-Ryan  
-Eloïne Vatteville-Réveillon  
-Jordan  
-Kei  
-Roselyn
 
-
-### Running the codes
+# Running the codes
 ## 1 Download the data
 You can create a folder called 'datasets' and put the mon_standard.pkl and unmon_standard.pkl data files in it, or edit the file addresses in the code to your own folders with the data.
 
