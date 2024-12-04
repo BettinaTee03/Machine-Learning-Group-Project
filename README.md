@@ -38,6 +38,6 @@ Be sure to activate the second command any time that you want to run the program
 Run the feature_extraction.ipynb, this will create a 'extracted_features.pkl' file, containing all the features we created from the raw data.
 
 ## 4 Try the different models!
-You can see our workflow and results for each experimental scenario by running the cells in the .. .. .. files.
+You can see our workflow and results for each experimental scenario by running the cells in the closedworld_multiclass, openworld_multiclass and openworld_binaryclass files.
 Be careful of some cells that might take a long time to run depending on your machine capacities.
-Running these files will generate results pkl files that can be used to show graphs using the comparisons.ypnb file. Using this code, you can also see the ROC graphs of the final models.
+Running these files will generate results pkl files that can be used to show graphs using the comparisons.ypnb file. 
